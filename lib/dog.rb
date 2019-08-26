@@ -7,7 +7,7 @@ class Dog
   end
 end 
 
-def Person
+class Person
   def talk
     puts "Hello World!"
   end
